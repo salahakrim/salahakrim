@@ -4,7 +4,7 @@ Hi 👋 My name is SalahEddine Akrim
 Software Developer
 ------------------
 
-Software Engineer, facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in large system architecture development and administration, as well as network design and configuration.
+Software Developer, facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in large system architecture development and administration, as well as network design and configuration.
 
 * 🌍  I'm based in Casablanca, Morocco
 * ✉️  You can contact me at [salahakrim23@gmail.com](mailto:salahakrim23@gmail.com)
