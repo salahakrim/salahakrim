@@ -4,7 +4,7 @@
 # **Full-Stack Developer**
 
 
-I'm a Full-Stack Developer, facilitating cutting-edge engineering solutions with a wide range of e-commerce application and technology skills. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in large system architecture development and administration, as well as network design and configuration.
+I'm a Full-Stack Developer, facilitating cutting-edge engineering solutions with a wide range of e-commerce applications and technology skills. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in significant system architecture development and administration, network design, and configuration.
 
 * 🌍  I'm based in Casablanca, Morocco
 * ✉️  You can contact me at [salahakrim23@gmail.com](mailto:salahakrim23@gmail.com)
@@ -49,7 +49,6 @@ src="https://img.shields.io/twitch/status/salahakrim23?logo=twitchsx&style=for-t
 <a href="https://discord.com/users/SalaH#7813" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 10px" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006634848898" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 10px" /></a>
 <a href="https://www.github.com/salahakrim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin-right: 10px" /></a>
-<a href="http://www.instagram.com/salah.eddine_akrim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin-right: 10px" /></a>
 <a href="https://www.linkedin.com/in/salaheddine-akrim-3918791aa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 10px" /></a>
 <a href="https://www.twitter.com/AkrimSalah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="margin-right: 10px" /></a>
 <a href="https://www.twitch.tv/salahakrim23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
